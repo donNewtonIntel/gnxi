@@ -1,4 +1,4 @@
-module github.com/donNewtonIntel/gnix
+module github.com/donNewtonIntel/gnix/utils
 
 go 1.18
 
